@@ -1,5 +1,7 @@
 # Execution Gating Stream Protocol (EGSP) Specification
 
+[![DOI](https://zenodo.org/badge/1469113696.svg)](https://doi.org/10.5281/zenodo.24476810)
+
 **Version:** 0.5.0  
 **Status:** Draft Specification
 
